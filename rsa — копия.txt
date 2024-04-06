@@ -1,0 +1,16 @@
+Your identification has been saved in /home/students/21200/a.mazyar/.ssh/id_rsa.
+Your public key has been saved in /home/students/21200/a.mazyar/.ssh/id_rsa.pub.
+The key fingerprint is:
+72:8c:ee:67:a8:c4:13:df:30:ad:eb:16:96:9f:1b:7e a.mazyar@mephisto
+The key's randomart image is:
++---[RSA 2048]----+
+|                 |
+|                 |
+|                 |
+|       +         |
+|    . =.S        |
+|   . ++B         |
+|    +.++o.       |
+|   . ooo=.E      |
+|    .++ooo       |
++-----------------+
